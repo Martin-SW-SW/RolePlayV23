@@ -1,0 +1,11 @@
+C:\c#_code\RolePlayV23\bin\Debug\netcoreapp3.1\RolePlayV23.exe
+C:\c#_code\RolePlayV23\bin\Debug\netcoreapp3.1\RolePlayV23.deps.json
+C:\c#_code\RolePlayV23\bin\Debug\netcoreapp3.1\RolePlayV23.runtimeconfig.json
+C:\c#_code\RolePlayV23\bin\Debug\netcoreapp3.1\RolePlayV23.runtimeconfig.dev.json
+C:\c#_code\RolePlayV23\bin\Debug\netcoreapp3.1\RolePlayV23.dll
+C:\c#_code\RolePlayV23\bin\Debug\netcoreapp3.1\RolePlayV23.pdb
+C:\c#_code\RolePlayV23\obj\Debug\netcoreapp3.1\RolePlayV23.csprojAssemblyReference.cache
+C:\c#_code\RolePlayV23\obj\Debug\netcoreapp3.1\RolePlayV23.AssemblyInfoInputs.cache
+C:\c#_code\RolePlayV23\obj\Debug\netcoreapp3.1\RolePlayV23.AssemblyInfo.cs
+C:\c#_code\RolePlayV23\obj\Debug\netcoreapp3.1\RolePlayV23.dll
+C:\c#_code\RolePlayV23\obj\Debug\netcoreapp3.1\RolePlayV23.pdb
